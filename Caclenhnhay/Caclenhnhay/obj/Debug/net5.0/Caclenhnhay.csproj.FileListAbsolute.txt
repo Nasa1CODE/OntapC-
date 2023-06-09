@@ -1,0 +1,16 @@
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\bin\Debug\net5.0\Caclenhnhay.exe
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\bin\Debug\net5.0\Caclenhnhay.deps.json
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\bin\Debug\net5.0\Caclenhnhay.runtimeconfig.json
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\bin\Debug\net5.0\Caclenhnhay.runtimeconfig.dev.json
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\bin\Debug\net5.0\Caclenhnhay.dll
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\bin\Debug\net5.0\ref\Caclenhnhay.dll
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\bin\Debug\net5.0\Caclenhnhay.pdb
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.csproj.AssemblyReference.cache
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.AssemblyInfoInputs.cache
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.AssemblyInfo.cs
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.csproj.CoreCompileInputs.cache
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.dll
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\ref\Caclenhnhay.dll
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.pdb
+E:\Hoc C#\OntapC-\Caclenhnhay\Caclenhnhay\obj\Debug\net5.0\Caclenhnhay.genruntimeconfig.cache

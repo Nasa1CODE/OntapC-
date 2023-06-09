@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Caclenhnhay/1.0.0": {
+        "runtime": {
+          "Caclenhnhay.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Caclenhnhay/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
