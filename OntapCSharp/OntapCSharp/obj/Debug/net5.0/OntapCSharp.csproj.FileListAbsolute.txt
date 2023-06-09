@@ -1,0 +1,15 @@
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\bin\Debug\net5.0\OntapCSharp.exe
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\bin\Debug\net5.0\OntapCSharp.deps.json
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\bin\Debug\net5.0\OntapCSharp.runtimeconfig.json
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\bin\Debug\net5.0\OntapCSharp.runtimeconfig.dev.json
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\bin\Debug\net5.0\OntapCSharp.dll
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\bin\Debug\net5.0\ref\OntapCSharp.dll
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\bin\Debug\net5.0\OntapCSharp.pdb
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\OntapCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\OntapCSharp.AssemblyInfoInputs.cache
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\OntapCSharp.AssemblyInfo.cs
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\OntapCSharp.csproj.CoreCompileInputs.cache
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\OntapCSharp.dll
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\ref\OntapCSharp.dll
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\OntapCSharp.pdb
+E:\Hoc C#\OntapC-\OntapCSharp\OntapCSharp\obj\Debug\net5.0\OntapCSharp.genruntimeconfig.cache
