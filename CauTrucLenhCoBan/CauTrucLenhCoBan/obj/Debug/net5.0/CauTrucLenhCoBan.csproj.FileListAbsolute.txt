@@ -1,0 +1,16 @@
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net5.0\CauTrucLenhCoBan.exe
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net5.0\CauTrucLenhCoBan.deps.json
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net5.0\CauTrucLenhCoBan.runtimeconfig.json
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net5.0\CauTrucLenhCoBan.runtimeconfig.dev.json
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net5.0\CauTrucLenhCoBan.dll
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net5.0\ref\CauTrucLenhCoBan.dll
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\bin\Debug\net5.0\CauTrucLenhCoBan.pdb
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.csproj.AssemblyReference.cache
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.GeneratedMSBuildEditorConfig.editorconfig
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.AssemblyInfoInputs.cache
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.AssemblyInfo.cs
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.csproj.CoreCompileInputs.cache
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.dll
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\ref\CauTrucLenhCoBan.dll
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.pdb
+E:\Hoc C#\OntapC-\CauTrucLenhCoBan\CauTrucLenhCoBan\obj\Debug\net5.0\CauTrucLenhCoBan.genruntimeconfig.cache
