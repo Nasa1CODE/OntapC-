@@ -1,0 +1,10 @@
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\bin\Debug\SinhVienConnectDB.exe.config
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\bin\Debug\SinhVienConnectDB.exe
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\bin\Debug\SinhVienConnectDB.pdb
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\obj\Debug\SinhVienConnectDB.csproj.AssemblyReference.cache
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\obj\Debug\SinhVienConnectDB.Form1.resources
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\obj\Debug\SinhVienConnectDB.Properties.Resources.resources
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\obj\Debug\SinhVienConnectDB.csproj.GenerateResource.cache
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\obj\Debug\SinhVienConnectDB.csproj.CoreCompileInputs.cache
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\obj\Debug\SinhVienConnectDB.exe
+E:\Hoc C#\OntapC-\SinhVienConnectDB\SinhVienConnectDB\obj\Debug\SinhVienConnectDB.pdb

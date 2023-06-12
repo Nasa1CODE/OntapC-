@@ -1,0 +1,10 @@
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\bin\Debug\Lab3_6.exe.config
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\bin\Debug\Lab3_6.exe
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\bin\Debug\Lab3_6.pdb
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\obj\Debug\Lab3_6.csproj.AssemblyReference.cache
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\obj\Debug\Lab3_6.Form1.resources
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\obj\Debug\Lab3_6.Properties.Resources.resources
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\obj\Debug\Lab3_6.csproj.GenerateResource.cache
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\obj\Debug\Lab3_6.csproj.CoreCompileInputs.cache
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\obj\Debug\Lab3_6.exe
+E:\Hoc C#\OntapC-\Lab3_6\Lab3_6\obj\Debug\Lab3_6.pdb

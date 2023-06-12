@@ -1,0 +1,11 @@
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\bin\Debug\OntapWinForm.exe.config
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\bin\Debug\OntapWinForm.exe
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\bin\Debug\OntapWinForm.pdb
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.csproj.AssemblyReference.cache
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.Properties.Resources.resources
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.csproj.GenerateResource.cache
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.csproj.CoreCompileInputs.cache
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.exe
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.pdb
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.Login.resources
+E:\Hoc C#\OntapC-\OntapWinForm\OntapWinForm\obj\Debug\OntapWinForm.Home.resources

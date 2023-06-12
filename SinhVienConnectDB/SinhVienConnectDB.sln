@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinhVienConnectDB", "SinhVienConnectDB\SinhVienConnectDB.csproj", "{028AEC7D-5190-40B9-873B-32125F4964BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{028AEC7D-5190-40B9-873B-32125F4964BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{028AEC7D-5190-40B9-873B-32125F4964BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{028AEC7D-5190-40B9-873B-32125F4964BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{028AEC7D-5190-40B9-873B-32125F4964BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A17A3F5-E261-4BCC-AE6D-84CBB19619BC}
+	EndGlobalSection
+EndGlobal
